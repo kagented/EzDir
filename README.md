@@ -8,4 +8,5 @@ It's got no interface or any fancy function.
 - Activate it
 - Drag-select the name of a place of visit
 - Right click and select "Get Directions"
+- Enter your Current Location
 - Enjoy your direcitions.
